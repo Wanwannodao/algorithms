@@ -54,7 +54,7 @@ int main()
     // x   : x as an element of A
     // x+n : x as an element of B
     // x+2n: x as an element of C
-    UnionFind uf(n+3);
+    UnionFind uf(3*n);
     
     ll cnt = 0;
 
