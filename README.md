@@ -8,7 +8,10 @@ This repository involves algorithm references for personal use.
 * Permutation Enumeration
 
 ## TODO
-* Union-Find
+* Union-Find tree
+* Segment tree
+* Bucketing algorithm
+* Square Root Decomposition
 * Dynamic Programming (Knapsack problem, LCS, ...)
 * Dijkstra
 * Bellman-Ford
