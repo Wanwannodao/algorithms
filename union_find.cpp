@@ -68,7 +68,7 @@ int main()
         if (d==1) {
             // one of inconsistent pattern
             if ( uf.same(x,y+n) || uf.same(x, y+2*n) ) cnt++; // x in A, y in B or x in A, y in C
-            else FOR(j,3) uf.unite(x+i*n, y+i*n);
+            else FOR(j,3) uf.unite(x+j*n, y+j*n);
         } else if(d==2) {
             // one of inconsistent pattern
             if ( uf.same(x, y) || uf.same(x, y+2*n) ) cnt++; // x in A, y in A or x in A, y in C
