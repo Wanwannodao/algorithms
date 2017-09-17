@@ -6,9 +6,8 @@ This repository involves algorithm references for personal use.
 * Gaussian Elimination
 * Simplex Algorithm
 * Permutation Enumeration
-
+* Union-Find tree (POJ 1182)
 ## TODO
-* Union-Find tree
 * Segment tree
 * Bucketing algorithm
 * Square Root Decomposition
