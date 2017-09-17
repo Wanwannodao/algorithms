@@ -18,7 +18,7 @@ public:
     UnionFind(int n) {
         // MakeSet
         p.resize(n); r.resize(n);
-        fill(p.begin(), p.end(), -1);
+        FOR(i,n) p[i] = i;
         fill(r.begin(), r.end(), 0);   
     }
 
