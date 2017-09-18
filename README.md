@@ -4,6 +4,7 @@ This repository involves algorithm references for personal use.
 ## Implimented
 * Graph
   * Breadth First Search / Depth First Search
+  * Topological sort
 * Warshall-Floyd
 * Gaussian Elimination
 * Simplex Algorithm
@@ -20,7 +21,6 @@ This repository involves algorithm references for personal use.
 * Kruskal
 * Ford-Fulkerson
 * Edmonds-Karp
-* Topological sort
 * Sieve of Eratosthenes
 * Primarity test
 * Divisor enumeration
