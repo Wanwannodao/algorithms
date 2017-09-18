@@ -2,6 +2,8 @@
 This repository involves algorithm references for personal use.
 
 ## Implimented
+* Graph
+  * Breadth First Search / Depth First Search
 * Warshall-Floyd
 * Gaussian Elimination
 * Simplex Algorithm
