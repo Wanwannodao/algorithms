@@ -4,7 +4,7 @@ This repository involves algorithm references for personal use.
 ## Implimented
 * Graph
   * Breadth First Search / Depth First Search (幅優先探索 / 深さ優先探索)
-  * Topological Sort (トポロジカルソート)
+  * Topological Sort (verified with AOJ GRL4) (トポロジカルソート)
   * Strongly Connected Components Decomposition (強連結成分分解) 
     * Kosaraju Algorithm (verified with AOJ GRL3) 
 * Warshall-Floyd
