@@ -23,7 +23,7 @@ public:
     int cost;
     Edge(int u, int v, int cost):
         u(u), v(v), cost(cost) {}
-    bool operator < (const Edge& e) {
+    bool operator < (const Edge& e) const {
         return cost != e.cost ? cost < e.cost : 
             u != e.u ? u < e.u : v < e.v;
     }
