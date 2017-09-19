@@ -7,6 +7,8 @@ This repository involves algorithm references for personal use.
   * Topological Sort (verified with AOJ GRL4) (トポロジカルソート)
   * Strongly Connected Components Decomposition (強連結成分分解) 
     * Kosaraju Algorithm (verified with AOJ GRL3) 
+  * Minimum Spanning Trees (MST)
+    * Kruskal Algorithm (verified with AOJ GRL2)
 * Warshall-Floyd
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
@@ -20,7 +22,6 @@ This repository involves algorithm references for personal use.
 * Dijkstra
 * Bellman-Ford
 * Prim's MST
-* Kruskal
 * Ford-Fulkerson
 * Edmonds-Karp
 * Sieve of Eratosthenes
