@@ -12,7 +12,7 @@ This repository involves algorithm references for personal use.
   * Single-Source Shortest Paths (単一始点最短経路問題)
     * Bellman-Ford Algorithm (verified with AOJ GLR1)
     * Dijkstra Algorithm (verified with AOJ GLR1)
-  * All-pairs Shortest Paths (全点対最短経路問題)
+  * All-pairs Shortest Paths (全点対最短経路問題)
     * Warshall-Floyd Algorithm
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
