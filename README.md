@@ -9,7 +9,7 @@ This repository involves algorithm references for personal use.
     * Kosaraju Algorithm (verified with AOJ GRL3) 
   * Minimum Spanning Trees (MST) (最小全域木)
     * Kruskal Algorithm (verified with AOJ GRL2)
-  * Single-Source Shortest Paths (単一始点最短経路問題)
+  * Single-Source Shortest Paths (単一始点最短経路問題)
     * Bellman-Ford Algorithm (verified with AOJ GLR1)
     * Dijkstra Algorithm (verified with AOJ GLR1)
   * All-pairs Shortest Paths (全点対最短経路問題)
