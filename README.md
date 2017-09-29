@@ -14,6 +14,7 @@ This repository involves algorithm references for personal use.
     * Dijkstra Algorithm (verified with AOJ GLR1)
   * All-pairs Shortest Paths (全点対最短経路問題)
     * Warshall-Floyd Algorithm
+    * Transitive Closure (有向グラフの推移閉包)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
