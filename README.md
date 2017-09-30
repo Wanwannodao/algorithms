@@ -19,6 +19,7 @@ This repository involves algorithm references for personal use.
     * Johnson Algorithm (verified with AOJ GRL1)
   * Maximum Flow (最大流)
     * Edmonds Karp Algorithm
+  * Bipartie Mathing (二部グラフの最大マッチング) (DFS-based Ford-Fulkerson)
 * Data Structure
   * Union-Find tree (verified with POJ 1182) (Union-Find木)
 * Gaussian Elimination (ガウスの消去法)
