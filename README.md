@@ -9,6 +9,7 @@ This repository involves algorithm references for personal use.
     * Kosaraju Algorithm (verified with AOJ GRL3) 
   * Minimum Spanning Trees (MST) (最小全域木)
     * Kruskal Algorithm (verified with AOJ GRL2)
+    * Prim Algorithm
   * Single-Source Shortest Paths (単一始点最短経路問題)
     * Bellman-Ford Algorithm (verified with AOJ GRL1)
     * Dijkstra Algorithm (verified with AOJ GRL1)
@@ -16,18 +17,18 @@ This repository involves algorithm references for personal use.
     * Warshall-Floyd Algorithm
     * Transitive Closure (有向グラフの推移閉包)
     * Johnson Algorithm (verified with AOJ GRL1)
+  * Maximum Flow (最大流)
+    * Edmonds Karp Algorithm
+* Data Structure
+  * Union-Find tree (verified with POJ 1182) (Union-Find木)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
-* Union-Find tree (verified with POJ 1182) (Union-Find木)
 ## TODO
 * Segment tree
 * Bucketing algorithm
 * Square Root Decomposition
 * Dynamic Programming (Knapsack problem, LCS, ...)
-* Prim's MST
-* Ford-Fulkerson
-* Edmonds-Karp
 * Sieve of Eratosthenes
 * Primarity test
 * Divisor enumeration
