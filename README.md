@@ -23,6 +23,7 @@ This repository involves algorithm references for personal use.
 * Data Structure
   * Union-Find tree (verified with POJ 1182) (Union-Find木)
   * Segment Tree (セグメント木)
+    * Range Minimum Query (verified with AOJ DSL2)
     * Range Sum Query (verified with AOJ DSL2)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
