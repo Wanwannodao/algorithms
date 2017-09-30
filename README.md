@@ -22,6 +22,8 @@ This repository involves algorithm references for personal use.
   * Bipartie Mathing (二部グラフの最大マッチング) (DFS-based Ford-Fulkerson)
 * Data Structure
   * Union-Find tree (verified with POJ 1182) (Union-Find木)
+  * Segment Tree (セグメント木)
+    * Range Sum Query (verified with AOJ DSL2)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
