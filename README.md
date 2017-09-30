@@ -29,7 +29,6 @@ This repository involves algorithm references for personal use.
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
 ## TODO
-* Segment tree
 * Bucketing algorithm
 * Square Root Decomposition
 * Dynamic Programming (Knapsack problem, LCS, ...)
@@ -37,3 +36,7 @@ This repository involves algorithm references for personal use.
 * Primarity test
 * Divisor enumeration
 * Prime Factor Decomposition
+* 重軽分解
+* 最近共通祖先(LSA)
+* 二重辺連結成分分解
+* 最小費用流
