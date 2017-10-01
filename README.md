@@ -40,3 +40,9 @@ This repository involves algorithm references for personal use.
 * 最近共通祖先(LSA)
 * 二重辺連結成分分解
 * 最小費用流
+
+## references
+http://codeforces.com/blog/entry/18051
+https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+https://blog.anudeep2011.com/heavy-light-decomposition/
+http://www.prefield.com/algorithm/index.html
