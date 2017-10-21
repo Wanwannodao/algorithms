@@ -23,12 +23,12 @@ This repository involves algorithm references for personal use.
 * Data Structure
   * Union-Find tree (verified with POJ 1182) (Union-Find木)
   * Segment Tree (セグメント木)
+    * Range Minimum Query (verified with AOJ DSL2)
     * Range Sum Query (verified with AOJ DSL2)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
 ## TODO
-* Segment tree
 * Bucketing algorithm
 * Square Root Decomposition
 * Dynamic Programming (Knapsack problem, LCS, ...)
@@ -36,3 +36,13 @@ This repository involves algorithm references for personal use.
 * Primarity test
 * Divisor enumeration
 * Prime Factor Decomposition
+* 重軽分解
+* 最近共通祖先(LSA)
+* 二重辺連結成分分解
+* 最小費用流
+
+## references
+http://codeforces.com/blog/entry/18051
+https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+https://blog.anudeep2011.com/heavy-light-decomposition/
+http://www.prefield.com/algorithm/index.html
