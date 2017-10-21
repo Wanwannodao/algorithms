@@ -25,6 +25,9 @@ This repository involves algorithm references for personal use.
   * Segment Tree (セグメント木)
     * Range Minimum Query (verified with AOJ DSL2)
     * Range Sum Query (verified with AOJ DSL2)
+* Number Theory
+  * GCD/LCM
+  * Extended Euclid (verified AOJ NTL)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
