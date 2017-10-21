@@ -28,6 +28,7 @@ This repository involves algorithm references for personal use.
 * Number Theory
   * GCD/LCM
   * Extended Euclid (verified AOJ NTL)
+  * LCM (more than 2 numbers) (verified AOJ NTL)
 * Gaussian Elimination (ガウスの消去法)
 * Simplex Algorithm　(シンプレックス法)
 * Permutation Enumeration (順列列挙)
